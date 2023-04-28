@@ -1,4 +1,4 @@
 # critter-capers
-Critter Capers: A Small World Simulation and Videogame
+Critter Capers: Information about predators and prey in our ecosystem
 
-Critter Capers is a C++-based simulation and video game that uses real-world climate data to generate authentic ecosystems. Utilizing C++ libraries, the game's world-building component generates environments influenced by historical climate conditions. As players assume the role of critters, they must navigate and survive within this dynamic ecosystem, overcoming challenges presented by real-life weather patterns.
+Critter Capers is a C++-based application using SFML that gathers insights by combining data from the Global Biotic Interactions (GloBI) opensoure dataset and the Integrated Taxonomic Information System (ITIS). This combination allows quick access to translations of taxon name (scientific name) to thea common name of a species and vice versa. It also identifies keystone species, specifically predators who eat the largest variety of prey. 
